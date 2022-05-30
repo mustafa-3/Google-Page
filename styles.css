@@ -127,6 +127,7 @@ top: 7px;
 
 .footer-top {
   padding: 1rem 2rem;
+  color: #999da2;
   border-bottom: 1px solid #333;
 }
 
@@ -135,6 +136,7 @@ top: 7px;
   display: flex;
   justify-content: space-between;
   padding: 1rem;
+  
 }
 
 .footer-list {
@@ -148,7 +150,7 @@ top: 7px;
 
 .footer-list a {
 padding: 1rem;
-color: white;
+color: #999da2;
 text-decoration: none;
   
 }
